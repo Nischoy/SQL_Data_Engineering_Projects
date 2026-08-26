@@ -1,5 +1,5 @@
 # Exploratory Data Analysis w/ SQL: Data Engineering Job Market Analysis (India vs USA)  
-![Project 1 Overview](./Images\1_1_Project1_EDA.png)
+![Project 1 Overview](./Images/1_1_Project1_EDA.png)
 
 ## Overview
 - **Project Scope** : Built 3 analytical queries that answer key questions 
@@ -33,7 +33,7 @@ Job market analysts need to answer questions like:
 This project analyzes a data warehouse built using a star schema design. 
 The warehouse structure consists of:
 
-![Data Warehouse Structure](./Images\1_2_Data_Warehouse.png)
+![Data Warehouse Structure](./Images/1_2_Data_Warehouse.png)
 
 - **Fact Table** : `job_postings_fact` - central table containing job posting 
   details such as job titles, locations, salaries, and dates.
